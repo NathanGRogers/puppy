@@ -1,7 +1,6 @@
 package puppy
 
 import (
-	strings
 	"github.com/NathanGRogers/dog"
 )
 
